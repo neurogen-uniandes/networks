@@ -6,7 +6,7 @@ A library for the co-expression network analysis used on the project "Spatiotemp
 # How to use ☑️
 - All functions are contained within the "functions.py"
 - A simple example made with a subset of the paper data can be found in the notebook "genga.ipynb"
-
+- You can easily dowload our [package from PyPi](https://pypi.org/project/genga/) with the "pip install genga" command  
 
 # Credits 🥇
 
