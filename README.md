@@ -1,7 +1,7 @@
 # networks 🔬
-This is the official repository for the GenGa: A GWCNA + Co-expression networks analysis tool for gene expression analysis.
+This is the official repository for the GenGa: A GWCNA + Coexpression networks analysis tool for gene expression analysis.
 
-A library for the co-expression network analysis used on the project "Spatiotemporal patterns of gene expression associated with mating stimuli in the brain of female guppies"
+A library for the coexpression network analysis used on the project "Spatiotemporal patterns of gene expression associated with mating stimuli in the brain of female guppies"
 
 # How to use ☑️
 - All functions are contained within the "functions.py"
